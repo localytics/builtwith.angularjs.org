@@ -1,6 +1,20 @@
 {
-  "featured": "YouTube on PS3",
+  "featured": "Localytics",
   "projects": [
+      {
+      "name": "Localytics",
+      "thumb": "localytics/thumb.png",
+      "desc": "Mobile and Web App Analytics & Marketing",
+      "url": "http://www.localytics.com",
+      "info": "http://www.localytics.com/press/press_release/major-upgrade-mobile-web-app-monetization/",
+      "submitter": "jr314159",
+      "submissionDate": "2013-09-21",
+      "tags": [
+        "Production",
+        "Analytics", "Marketing", "Mobile",
+        "d3", "Ruby on Rails", "jQuery", "AngularUI", "underscore.js"
+      ]
+    },
     {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
